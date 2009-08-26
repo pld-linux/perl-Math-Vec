@@ -8,13 +8,13 @@
 Summary:	Math::Vec - Object-Oriented Vector Math Methods in Perl
 Summary(pl.UTF-8):	Math::Vec - zorientowane obiektowo metody do wektorów w Perlu
 Name:		perl-Math-Vec
-Version:	0.04
+Version:	1.01
 Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/Math/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	96877cb54704426ce333b13a8380bfbf
+# Source0-md5:	3d881e6f8074257d54125190719859eb
 URL:		http://search.cpan.org/dist/Math-Vec/
 BuildRequires:	perl-Module-Build
 BuildRequires:	perl-devel >= 1:5.8.0
